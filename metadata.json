@@ -1,0 +1,5 @@
+{
+  "name": "EditCost",
+  "description": "Uma plataforma SaaS para editores de vídeo e freelancers acompanharem o tempo e o custo real de seus projetos usando o sistema Pomodoro.",
+  "requestFramePermissions": []
+}
